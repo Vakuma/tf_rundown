@@ -1,2 +1,3 @@
-# tf_rundown
-Run down of tensorflow basics
+# Tensorflow Rundown
+
+Notebooks exploring basics of tensorflow
