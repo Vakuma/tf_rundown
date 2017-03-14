@@ -1,3 +1,4 @@
 # Tensorflow Rundown
 
-Notebooks exploring basics of tensorflow
+Reimplementation of popular tensorflow examples
+  
