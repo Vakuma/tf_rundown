@@ -16,6 +16,11 @@ Install the requirements
 
 	pip install -r requirements.txt
 
+Head onto the notebooks and use jupyter to run it
+
+	cd notebooks
+	jupyter notebook Introduction.ipynb
+
 ---
 
 Table of Contents
