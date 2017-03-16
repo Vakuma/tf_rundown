@@ -91,3 +91,6 @@ ENV/
 # Eclipse
 .pydevproject
 .project
+
+# Ignore models
+models/
