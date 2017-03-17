@@ -94,3 +94,4 @@ ENV/
 
 # Ignore models
 models/
+logs/
