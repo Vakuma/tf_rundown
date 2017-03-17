@@ -29,4 +29,5 @@ Table of Contents
  2. [Linear Regression](/notebooks/Linear%20Regression.ipynb)
  3. [Nearest Neighbors](/notebooks/Nearest%20Neighbors.ipynb)
  4. [Feed Forward Neural Net](/notebooks/Feed%20Forward%20Neural%20Network.ipynb)
+ 5. [Feed Forward Neural Net with Tensorboard](/notebooks/Feed%20Forward%20Neural%20network%20with%20TensorBoard.ipynb)
 
