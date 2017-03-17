@@ -31,3 +31,6 @@ Table of Contents
  4. [Feed Forward Neural Net](/notebooks/Feed%20Forward%20Neural%20Network.ipynb)
  5. [Feed Forward Neural Net with Tensorboard](/notebooks/Feed%20Forward%20Neural%20network%20with%20TensorBoard.ipynb)
 
+Sources: 
+ 1. [Tensorflow Tutorials](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/tutorials)
+ 2. [Aymeric Damien's Tutorials](https://github.com/aymericdamien/TensorFlow-Examples)
